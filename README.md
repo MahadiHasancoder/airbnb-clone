@@ -1,15 +1,16 @@
 Building Airbnb clone with REAACT JS 🔥🔥🔥
-
+ </br>
+  </br>
 React </br>
-Components
-Material UI
-Material Icon
-React-Date-Picker
-Date-fns
-React-Router-Dom v6
+Components </br>
+Material UI </br>
+Material Icon </br>
+React-Date-Picker </br>
+Date-fns </br>
+React-Router-Dom v6 </br>
 
-Flexbox 
-Responsive Design
+Flexbox - 
+Responsive Design  </br>
 
-Firebase Hosting
+Firebase Hosting </br>
 https://airbnb-clone-d8031.web.app/
